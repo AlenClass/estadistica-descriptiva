@@ -15,7 +15,7 @@ const minPeso = Math.min(...pesos);
 const maxPeso = Math.max(...pesos);
 const anchoIntervalo = 10;
 const intervalos = [];
-for (let inicio = 50; inicio <= 90; inicio += anchoIntervalo) {
+for (let inicio = 50; inicio <= 80; inicio += anchoIntervalo) {
   intervalos.push([inicio, inicio + anchoIntervalo - 1]);
 }
 const frecuencias = intervalos.map(([ini, fin]) =>
