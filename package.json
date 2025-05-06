@@ -1,0 +1,31 @@
+{
+  "name": "estadistica-descriptiva",
+  "version": "1.0.0",
+  "description": "¡Buenos días Respetados Estudiantes! En este taller, participará en una exploración práctica de la estadística descriptiva utilizando datos reales. Esta tarea le ayudará a comprender cómo analizar e interpretar datos de manera efectiva. A continuación se muestran las instrucciones detalladas para guiarlo a través de las tareas. Lea atentamente cada sección y siga los pasos para completar su tarea con éxito.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite view",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenClass/estadistica-descriptiva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlenClass/estadistica-descriptiva/issues"
+  },
+  "homepage": "https://github.com/AlenClass/estadistica-descriptiva#readme",
+  "dependencies": {
+    "chart.js": "^4.4.9",
+    "simple-statistics": "^7.8.8"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
